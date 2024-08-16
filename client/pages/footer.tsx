@@ -10,7 +10,7 @@ import styles from "../styles/footer.module.css";
 
 export default function footer() {
   return (
-    <div id="footer">
+    <div id="contact">
       <div className={styles.p1}>
         <div className={styles.p1a}>
           <Image className={styles.img15} src={img10} alt="img15"></Image>
