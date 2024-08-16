@@ -1,0 +1,188 @@
+
+.hero1{
+width: 714px;
+height: 392px;
+top: 97px;
+left: 120px;
+gap: 0px;
+position: absolute;
+}
+
+.t1{
+width: 89px;
+height: 36px;
+top: 137px;
+left: 7px;
+gap: 0px;
+position: absolute;
+font-size: 18px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: left;
+}
+.t2{
+width: 324px;
+height: 48px;
+top: 169px;
+left: 4px;
+gap: 0px;
+font-size: 28px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: 0.03em;
+text-align: left;
+position: absolute;
+color: #FD6F00;
+}
+.t3{
+width: 483px;
+height: 120px;
+top: 194px;
+gap: 0px;
+position: absolute;
+font-size: 80px;
+font-weight: 700;
+line-height: 120px;
+letter-spacing: 0.03em;
+text-align: left;
+}
+.t4{
+ width: 484px;
+height: 120px;
+top: 269px;
+left: 200px;
+gap: 0px;
+font-size: 80px;
+font-weight: 700;
+line-height: 120px;
+letter-spacing: 0.03em;
+text-align: left;
+position: absolute;
+}
+
+.p1{
+width: 558px;
+height: 901px;
+top: 500px;
+left: 120px;
+gap: 0px;
+font-size: 19px;
+font-weight: 400;
+line-height: 31.5px;
+letter-spacing: 0.03em;
+text-align: justified;
+position:absolute;
+}
+.pic{
+width: 448px;
+top:200px;
+height: 817.24px;
+left: 792px;
+gap: 0px;
+position: absolute;
+
+}
+.strap{
+width: 244px;
+height: 43px;
+top: 78px;
+left: 100px;
+gap: 0px;
+position: absolute;
+background: #FD6F0099;
+}
+.btn1{
+width: 188px;
+height: 52px;
+top: 630px;
+left: 120px;
+gap: 0px;
+position: absolute;
+background: #FD6F00;
+}
+.btn1text{
+width: 83px;
+height: 17px;
+top: 8px;
+left: 53px;
+gap: 0px;
+font-size: 21px;
+font-weight: 400;
+line-height: 31.5px;
+letter-spacing: 0.03em;
+text-align: justified;
+position: absolute;
+color:#FFFFFF;
+}
+.icons1{
+width: 205px;
+height: 32.48px;
+top: 754px;
+left: 928px;
+padding: 0px;
+gap: 0px;
+position: absolute;
+}
+.facebook{
+width: 22.48px;
+height: 32.48px;
+top: 0px;
+left: 8px;
+padding: 0px 0px 0.2px 0px;
+gap: 0px;
+position: absolute;
+}
+.twitter{
+width: 32.48px;
+height: 32.48px;
+top: 0px;
+left: 38px;
+padding: 3.04px 0px 3.04px 0px;
+gap: 0px;
+position: absolute;
+}
+.instagram{
+width: 22.48px;
+height: 32.48px;
+top: 0px;
+left: 78.02px;
+gap: 0px;
+position: absolute;
+
+}
+.linkedin{
+width: 22.48px;
+height: 32.48px;
+top: 0px;
+left: 118.52px;
+gap: 0px;
+position: absolute;
+}
+@media (max-width: 1028px) {
+.hero1{
+    left: 80px;
+    position: absolute;
+    }
+    .p1{
+        left: 70px;
+        position: absolute;
+    }
+    .btn1{
+        left:70px;
+        position: absolute;
+    }
+    .pic{
+        width: 448px;
+        top:200px;
+        height: 917.24px;
+        left: 752px;
+        gap: 0px;
+        position: absolute;
+        
+        }
+        .icons1{
+            left:900px;
+            position: absolute;
+        }
+}

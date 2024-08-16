@@ -1,0 +1,128 @@
+.nav{
+width: 1100px;
+height: 67px;
+top: 41px;
+left: 120px;
+right:120px;
+gap: 0px;   
+position: absolute; 
+}
+.logo{
+width: 179px;
+height: 47px;
+padding: 0px 2px 0px 0px;
+gap: 0px;
+
+}
+.links{
+width:837px;
+height: 52px;
+top: 0px;
+left: 261px;
+gap: 12px;
+position: absolute;
+}
+
+.f1{
+width: 93px;
+height: 52px;
+padding: 10px 14px 10px 14px;
+gap: 10px;
+    
+}
+
+.f2{
+width: 132px;
+height: 52px;
+padding: 10px 14px 10px 14px;
+gap: 10px;
+top:0px;
+position: absolute;
+left:80px;
+
+}
+
+.f1text{
+width: 65px;
+height: 32px;
+gap: 0px;
+font-size: 18px;
+font-weight: 600;
+line-height: 31.5px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #000000;
+}
+
+.f3{
+width: 120px;
+height: 52px;
+padding: 10px 14px 10px 14px;
+gap: 10px;
+top:0px;
+position: absolute;
+left:190px;
+}
+.f4{
+width: 116px;
+height: 52px;
+padding: 10px 14px 10px 14px;
+gap: 10px;
+top:0px;
+position: absolute;
+left:290px;
+}
+.f5{
+width:168px;
+height: 52px;
+padding: 10px 14px 10px 14px;
+gap: 10px;
+top:0px;
+position: absolute;
+left:390px;
+}
+.f6{
+width: 118px;
+height: 52px;
+padding: 10px 14px 10px 14px;
+gap: 10px;
+top:0px;
+position: absolute;
+left:520px;
+}
+.btn{
+width: 188px;
+height: 52px;
+top: 0px;
+left: 650px;
+gap: 0px;
+position: absolute;
+border-radius: 5px 5px 5px 5px;
+background-color:#FD6F00;
+}
+
+.btntext{
+width: 152px;
+height: 17px;
+top: 24px;
+left: 1250px;
+gap: 0px;
+font-size: 21px;
+font-weight: 400;
+line-height: 31.5px;
+letter-spacing: 0.03em;
+text-align: justified;
+color: #FFFFFF;
+}
+@media (max-width: 1028px) {
+    .nav{
+        width: 1100px;
+        height: 67px;
+        top: 61px;
+        left: 70px;
+        right:70px;
+        gap: 0px;   
+        position: absolute;
+        }
+            
+}

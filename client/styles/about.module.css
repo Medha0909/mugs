@@ -1,0 +1,185 @@
+.about{
+height: 567.24px;
+width: 538px;
+gap: 0px;
+top:850px;
+left:70px;
+position: absolute;
+}
+.abt{
+width: 330px;
+height: 98px;
+top: 875px;
+left: 664px;
+gap: 0px;
+position: absolute;
+font-size: 45px;
+font-weight: 600;
+line-height: 97.5px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #000000;
+}
+.abt1{
+width: 506px;
+height: 101px;
+top: 968px;
+left: 664px;
+gap: 0px;
+position: absolute;
+font-size: 19px;
+font-weight: 400;
+line-height: 31.5px;
+letter-spacing: 0.03em;
+text-align: left;
+color:#000000;
+}
+.abt2{
+width: 563px;
+height: 349px;
+top: 1090px;
+left: 664px;
+gap: 0px;
+border-radius: 6px 0px 0px 0px;
+position: absolute;
+}
+.ux{
+width: 34px;
+height: 36px;
+top: 0px;
+left: 0px;
+gap: 0px;
+position: absolute;
+font-size: 20px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #000000;
+}
+.slider1{
+width: 510px;
+height: 32px;
+top:40px;
+left: 0px;
+gap: 0px;
+border-radius: 6px 0px 0px 0px;
+position: absolute;    
+}
+.web{
+width: 199px;
+height: 36px;
+top: 80px;
+left: 0px;
+gap: 0px;
+font-size: 20px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: left;
+position: absolute;
+color: #000000;
+}
+.s2{
+    color:red;
+}
+.aa{
+    top:130px;
+    position: absolute;
+}
+.sl{
+    width:510px;
+    height: 9px;
+
+}
+.sl2a{
+    width:420px;
+    top:-1px;
+    height:9px;
+    position: absolute;
+}
+.sl2b{
+    width:30px;
+    top:-10px;
+    left:420px;
+    position: absolute;
+}
+.app{
+    width: 199px;
+    height: 36px;
+    top: 160px;
+    left: 0px;
+    gap: 0px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    position: absolute;
+    color: #000000;
+    }
+.ab{
+    top:215px;
+    position: absolute;
+}
+.sbl2a{
+    width:470px;
+    top:-1px;
+    height:9px;
+    position: absolute;
+}
+.sbl2b{
+    width:30px;
+    top:-10px;
+    left:470px;
+    position: absolute;
+}
+.grap{
+width: 199px;
+height: 36px;
+top: 250px;
+left: 0px;
+gap: 0px;
+font-size: 20px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: 0.03em;
+text-align: left;
+position: absolute;
+color: #000000;
+}
+
+.slider4{
+    width: 510px;
+    height: 32px;
+    top:290px;
+    left: 0px;
+    gap: 0px;
+    border-radius: 6px 0px 0px 0px;
+    position: absolute;    
+}
+.strap{
+    width: 264px;
+    height: 43px;
+    top: 88px;
+    left: 135px;
+    gap: 0px;
+    position: absolute;
+    background: #FD6F0099;
+    }
+@media (max-width: 1028px) {
+        .about{
+            width: 598px;
+            height: 917.24px;
+            gap: 0px;
+            top:850px;
+            left:10px;
+            position: absolute;
+            }
+            .strap{
+                left: 160px;
+                top:98px;
+                position: absolute;
+                background: #FD6F0099;
+                }
+    }
