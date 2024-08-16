@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <div className={styles.nav}>
       <div className={styles.logo}> 
-      <Image src={logo} alt="logo" />
+      <a href=""><Image src={logo} alt="logo" /></a>
       </div>
       <div className={styles.links}>
       <div className={styles.f1}>
@@ -15,7 +15,7 @@ function Navbar() {
         Home
       </span></a>
       <div className={styles.f2}>
-        <a href="#"  style={{textDecoration:"none"}}>
+        <a href="#about"  style={{textDecoration:"none"}}>
       <span className={styles.f1text}>
         About Me
       </span>
