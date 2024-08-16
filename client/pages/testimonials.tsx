@@ -4,7 +4,7 @@ import styles from "../styles/testimonials.module.css";
 
 function testimonials() {
   return (
-    <div id="services">
+    <div id="testimonals">
       <div className={styles.te1}>
         <div className={styles.te2}>
           <span className={styles.tes}>Testimonials</span>
