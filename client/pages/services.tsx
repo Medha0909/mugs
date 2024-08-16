@@ -4,7 +4,7 @@ import Cards from "@/Components/Cards";
 
 function services() {
   return (
-    <div>
+    <div id="services">
       <div className={styles.sr1}>
         <div className={styles.sr2}>
           <span className={styles.srt2}>Services</span>
