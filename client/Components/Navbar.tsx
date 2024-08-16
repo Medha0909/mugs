@@ -22,28 +22,28 @@ function Navbar() {
       </a>
       </div>
       <div className={styles.f3}>
-        <a href="#" style={{textDecoration:"none"}}>
+        <a href="#services" style={{textDecoration:"none"}}>
       <span className={styles.f1text}>
         Services
       </span>
       </a>
       </div>
       <div className={styles.f4}>
-        <a href="#"  style={{textDecoration:"none"}}>
+        <a href="#projects"  style={{textDecoration:"none"}}>
       <span className={styles.f1text}>
         Projects
       </span>
       </a>
       </div>
       <div className={styles.f5}>
-        <a href="#"  style={{textDecoration:"none"}}>
+        <a href="#testimonials"  style={{textDecoration:"none"}}>
       <span className={styles.f1text}>
         Testimonials
       </span>
       </a>
       </div>
       <div className={styles.f6}>
-        <a href="#"  style={{textDecoration:"none"}}>
+        <a href="#contact"  style={{textDecoration:"none"}}>
       <span className={styles.f1text}>
         Contact
       </span>
