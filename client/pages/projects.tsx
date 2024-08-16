@@ -11,7 +11,7 @@ import img8 from "../public/Web Designs (5).jpg";
 
 function projects() {
   return (
-    <div>
+    <div id="projects">
       <div className={styles.pro}>
         <span className={styles.s1a}>My Projects</span>
         <br></br>
